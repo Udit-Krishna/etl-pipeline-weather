@@ -1,0 +1,3 @@
+.env
+# VIRTUAL ENVIRONMENT 👇
+/airflow-venv/*

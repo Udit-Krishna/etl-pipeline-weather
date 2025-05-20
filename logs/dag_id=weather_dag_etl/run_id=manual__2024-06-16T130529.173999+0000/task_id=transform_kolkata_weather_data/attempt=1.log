@@ -1,4 +1,0 @@
-[2024-06-16T18:42:04.584+0530] {logging_mixin.py:188} INFO - Changing /mnt/d/Programs/weather etl/logs/dag_id=weather_dag_etl/run_id=manual__2024-06-16T13:05:29.173999+00:00/task_id=transform_kolkata_weather_data permission to 509
-[2024-06-16T18:42:05.372+0530] {logging_mixin.py:188} INFO - Changing /mnt/d/Programs/weather etl/logs/dag_id=weather_dag_etl/run_id=manual__2024-06-16T13:05:29.173999+00:00/task_id=transform_kolkata_weather_data permission to 509
-[2024-06-16T18:42:05.748+0530] {taskinstance.py:1946} INFO - Dependencies not met for <TaskInstance: weather_dag_etl.transform_kolkata_weather_data manual__2024-06-16T13:05:29.173999+00:00 [skipped]>, dependency 'Task Instance State' FAILED: Task is in the 'skipped' state.
-[2024-06-16T18:42:05.754+0530] {local_task_job_runner.py:160} INFO - Task is not able to be run

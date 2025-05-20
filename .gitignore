@@ -1,6 +1,1 @@
 .env
-<<<<<<< HEAD
-# VIRTUAL ENVIRONMENT 👇
-/airflow-venv/*
-=======
->>>>>>> origin/dockerized
